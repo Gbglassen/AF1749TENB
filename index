@@ -24,8 +24,6 @@
 </head>
 <body>
 
-<img id="bild" src="bild1.jpg" alt="bild">
-
 <script>
   const bilder = [
     "1.png",
