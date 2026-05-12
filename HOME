@@ -28,10 +28,11 @@
 
 <script>
   const bilder = [
-    "bild1.jpg",
-    "bild2.jpg",
-    "bild3.jpg",
-    "bild4.jpg"
+    "1.png",
+    "1SVAR.png",
+    "2.png",
+    "2SVAR.png",
+    
   ];
 
   let index = 0;
